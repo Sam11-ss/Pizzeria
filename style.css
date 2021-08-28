@@ -109,4 +109,10 @@ body{
 #im1{
 	width:100px;
 	height: 80px;
+	display: none;
+	
+}
+#pizza{
+	width:50%;
+	height:50%;
 }
